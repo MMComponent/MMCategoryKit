@@ -1,0 +1,16 @@
+PODS:
+  - MMCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - MMCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  MMCategoryKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MMCategoryKit: ed1622d4a58d899773eca7edc1a478673b1609a9
+
+PODFILE CHECKSUM: a2ce0f08638afa221f503afdad75f33f5686c4f6
+
+COCOAPODS: 1.4.0
